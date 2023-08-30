@@ -1,5 +1,5 @@
 # HDL_Archive
-
+This repository houses my works from the undergraduate hardware description language course, demonstrating proficiency in Verilog and utilization of industry-standard tools such as ModelSim and Xilinx ISE.
 ## Assignment 1
 This assignment involved designing and testing a sequential logic circuit using Verilog HDL. The objective was to gain hands-on experience in digital circuit design, Verilog modeling, and functional verification using ModelSim.
 ## Assignment 2
